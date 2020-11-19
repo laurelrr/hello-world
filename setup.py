@@ -4,10 +4,13 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='helloworld',   # this is the name you will pip install
+    url="https://github.com/laurelrr/helloworld_laurelrr",
+    author="Laurel Keyes",
+    author_email="laurelrr@gmail.com",
+    name='helloworld_laurelrr',   # this is the name you will pip install
     version='0.0.2',          # 0.0.X implies unstable branch
     description='Say hello!',    
-    py_modules=["helloworld"], # list of actual python code modules
+    py_modules=["helloworld_laurelrr"], # list of actual python code modules
     package_dir={'':'src'}, # tells setuptools your code is in a source directory.
     classifiers=[                # see https://pypi.org/classifiers
         "Programming Language :: Python :: 3",
