@@ -7,3 +7,8 @@ src/helloworld.egg-info/top_level.txt
 src/helloworld.egg-info/SOURCES.txt
 src/helloworld.egg-info/PKG-INFO
 src/helloworld.egg-info/dependency_links.txt
+src/helloworld_laurelrr.egg-info/dependency_links.txt
+src/helloworld_laurelrr.egg-info/PKG-INFO
+src/helloworld_laurelrr.egg-info/requires.txt
+src/helloworld_laurelrr.egg-info/SOURCES.txt
+src/helloworld_laurelrr.egg-info/top_level.txt
